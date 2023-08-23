@@ -1,6 +1,6 @@
 /.DS_Store
 /venv
 /__pycache__
-/requirements.txt
+/.txt
 /.gitignore
-/Jupyter_Notebook.ipynb
+/.ipynb
