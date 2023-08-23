@@ -2,3 +2,6 @@
 /Input
 /venv
 /__pycache__
+/requirements.txt
+/.gitignore
+/.ipynb
