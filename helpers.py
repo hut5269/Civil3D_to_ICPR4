@@ -5,6 +5,6 @@ from google.colab import files
 
 
 def file_upload(message):
-    %cd /content/Input
+    %cd /content/Civil3D_to_ICPR4/Input
     uploaded = files.upload()
     return uploaded
